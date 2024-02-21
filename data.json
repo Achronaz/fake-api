@@ -1,20 +1,21 @@
 {
     "data": [
-      [
-        "deltaasia(002)",
-        "et00200001",
-        "abcd1234",
-        "A",
-        "2024-02-21",
-        "2024-02-21"
-      ],
-      [
-        "frontier(003)",
-        "et00300001",
-        "abcd1234",
-        "A",
-        "2024-02-21",
-        "2024-02-21"
-      ]
+      {
+        "group":"deltaasia(002)",
+        "loginName":"et00200001",
+        "password":"abcd1234",
+        "status":"A",
+        "startDate":"2024-02-21",
+        "endDate":"2024-02-21"
+      },
+      {
+        "group":"frontier(003)",
+        "loginName":"et00300001",
+        "password":"abcd1234",
+        "status":"A",
+        "startDate":"2024-02-21",
+        "endDate":"2024-02-21"
+      }
     ]
 }
+
